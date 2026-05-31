@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MN-Noor/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/MN-Noor/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MN-Noor/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/MN-Noor/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MN-Noor/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/MN-Noor/Leetcode/tree/master/0066-plus-one) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MN-Noor/Leetcode/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MN-Noor/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
